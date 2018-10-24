@@ -1,11 +1,16 @@
 _repo: A-Second-Letter-to-the-Bishop-of-Exeter_58106
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58106-h/images/cover.jpg
 creator:
   author:
     agent_name: Alderson, Edward Hall
     gutenberg_agent_id: '49776'
     url: http://www.gutenberg.org/2009/agents/49776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58106#A-Second-Letter-to-the-Bishop-of-Exeter
 gutenberg_issued: '2018-10-15'
 gutenberg_type: Text
 identifiers:
